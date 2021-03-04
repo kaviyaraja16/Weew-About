@@ -107,8 +107,7 @@
 @media only screen and (min-width : 480px) and (max-width : 767px) {
 
 	/* === HOME CAROUSEL === */
-	#image1 {display: none;}
-	 #image2 {display: block;}
+
 	.trendy-slider .controls li{
 		padding:30px 10px;
 	}

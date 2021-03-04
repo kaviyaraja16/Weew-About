@@ -883,8 +883,6 @@ Responsive Media Querries
       position: relative;
       top: 0;
       left: 0;
-      display: block;
-
     }
 #image2{
 
@@ -894,7 +892,6 @@ Responsive Media Querries
       background-color: white;
       background-size: 300px 300px;
       border-radius: 12px 12px 0 0;
-      display: none;
     }
 
  .About-section{
@@ -953,8 +950,7 @@ width: 100%;
 .center {
 
 }
-/* =-=-=-=-=-=-= Mobile Section =-=-=-=-=-=-= */
-
+/* =-=-=-=-=-=-= Footer Section =-=-=-=-=-=-= */
 
 /* =-=-=-=-=-=-= Footer Section =-=-=-=-=-=-= */
 
